@@ -42,7 +42,9 @@ At any point a character will have a method `fight` that will be polymorphic and
 # Extra
 
 **More skills**
+
 Try adding more skills to your game. This might be useful: https://en.wikipedia.org/wiki/Zero-sum_game
 
 **Different attacks**
+
 Every skill can have different attacks. For example **Super Strength** can have __Power kick__ and __Power punch__ with different values and **Super Speed** can have __fast punch__ and __fast kick__. Now the rules are more complex, because __fast kick__ wins over __Power punch__. But using __fast kick__ can reduce your energy and the next attack can kill you.
